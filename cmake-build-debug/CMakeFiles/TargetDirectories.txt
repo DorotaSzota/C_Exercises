@@ -1,0 +1,9 @@
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/Zadania_1.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/Zad_1_.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/Zad_2_.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/Zad_3_.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/Zad_4_.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/Zad_5_.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/Zad_6_.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Moje Dokumenty/C/Zadania_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
