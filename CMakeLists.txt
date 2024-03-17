@@ -14,7 +14,8 @@ add_executable(Zad_1_ Zadania_1/Zad_1_.c
         Zadania_1/Zad_4_.c
         Zadania_1/Zad_5_.c
         Zadania_1/Zad_6_.c
-        Zadania_2/Zad_2_.c)
+        Zadania_2/Zad_2_.c
+        Zadania_2/Zad_1_.c)
 
 add_executable(Zad_2_ Zadania_1/Zad_2_.c
         Zadania_2/Zad_2_.c)

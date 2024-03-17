@@ -124,6 +124,12 @@ build CMakeFiles/Zad_1_.dir/Zadania_2/Zad_2_.c.obj: C_COMPILER__Zad_1__unscanned
   OBJECT_DIR = CMakeFiles\Zad_1_.dir
   OBJECT_FILE_DIR = CMakeFiles\Zad_1_.dir\Zadania_2
 
+build CMakeFiles/Zad_1_.dir/Zadania_2/Zad_1_.c.obj: C_COMPILER__Zad_1__unscanned_Debug D$:/Moje$ Dokumenty/C/Zadania_1/Zadania_2/Zad_1_.c || cmake_object_order_depends_target_Zad_1_
+  DEP_FILE = CMakeFiles\Zad_1_.dir\Zadania_2\Zad_1_.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Zad_1_.dir
+  OBJECT_FILE_DIR = CMakeFiles\Zad_1_.dir\Zadania_2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Zad_1_
@@ -132,7 +138,7 @@ build CMakeFiles/Zad_1_.dir/Zadania_2/Zad_2_.c.obj: C_COMPILER__Zad_1__unscanned
 #############################################
 # Link the executable Zad_1_.exe
 
-build Zad_1_.exe: C_EXECUTABLE_LINKER__Zad_1__Debug CMakeFiles/Zad_1_.dir/Zadania_1/Zad_1_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_2_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_3_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_4_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_5_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_6_.c.obj CMakeFiles/Zad_1_.dir/Zadania_2/Zad_2_.c.obj
+build Zad_1_.exe: C_EXECUTABLE_LINKER__Zad_1__Debug CMakeFiles/Zad_1_.dir/Zadania_1/Zad_1_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_2_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_3_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_4_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_5_.c.obj CMakeFiles/Zad_1_.dir/Zadania_1/Zad_6_.c.obj CMakeFiles/Zad_1_.dir/Zadania_2/Zad_2_.c.obj CMakeFiles/Zad_1_.dir/Zadania_2/Zad_1_.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Zad_1_.dir
