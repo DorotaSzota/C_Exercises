@@ -50,7 +50,7 @@ void printScores(int playerScore, int computerScore, int totalRounds) {
 
 int main() {
     srand(time(NULL)); // seed for random number generator based on current time. I was not able to find anything more
-    // proper to generate a different random seed each time the game is launched,.
+    // proper to generate a different random seed each time the game is launched.
     int playerScore = 0, computerScore = 0, totalRounds = 0;
     int rounds;
 
