@@ -27,6 +27,9 @@ add_executable(Zad_1_ Zadania_1/Zad_1_.c
         Zadania_5/Zad_4_.c
         Zadania_5/Zad_5_.c
         Zadania_5/Zad_6_.c
+        Zadania_6/Zad_1_.c
+        Zadania_6/Zad_2_.c
+        Zadania_6/Zad_3_.c
 )
 
 add_executable(Zad_2_ Zadania_1/Zad_2_.c
@@ -52,3 +55,6 @@ add_executable(Zad_5_3_ Zadania_5/Zad_3_.c)
 add_executable(Zad_5_4_ Zadania_5/Zad_4_.c)
 add_executable(Zad_5_5_ Zadania_5/Zad_5_.c)
 add_executable(Zad_5_6_ Zadania_5/Zad_6_.c)
+add_executable(Zad_6_1_ Zadania_6/Zad_1_.c)
+add_executable(Zad_6_2_ Zadania_6/Zad_2_.c)
+add_executable(Zad_6_3_ Zadania_6/Zad_3_.c)
