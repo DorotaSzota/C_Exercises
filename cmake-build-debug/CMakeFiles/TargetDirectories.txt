@@ -19,5 +19,8 @@
 /Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/Zad_6_1_.dir
 /Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/Zad_6_2_.dir
 /Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/Zad_6_3_.dir
+/Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/Zad_7_1_.dir
+/Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/Zad_7_2_.dir
+/Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/Zad_7_2_2_.dir
 /Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/dorota/Library/Mobile Documents/com~apple~CloudDocs/Studia/C/C_Exercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
